@@ -53,4 +53,4 @@ Quiz results are stored in a text file named results.txt.
     └── Main.java
 
 Author
-Khushi Beniwal
+Khushi 
